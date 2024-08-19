@@ -5,9 +5,7 @@
 
 - 👨‍💻Computer Science student at **Cairo University , Egypt**
 
-<img align = "right alt = "Coding"  width = "400" src = "![image](https://github.com/user-attachments/assets/b8244570-b486-46d8-a83b-f0d95e56a55c)
-"
-">
+<img align = "right alt = "Coding"  width = "400" src = "https://wallpapercave.com/wp/wp8778420.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yousef-mohamed-safwat-b84557261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yousef-mohamed-safwat-b84557261" height="30" width="40" /></a>
