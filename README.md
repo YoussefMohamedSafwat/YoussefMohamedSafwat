@@ -40,7 +40,10 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 ### 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youssefmohamedsafwat&show_icons=true&theme=radical&hide_border=true" alt="Youssef's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefmohamedsafwat&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=youssefmohamedsafwat&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefmohamedsafwat&theme=radical" alt="Profile Summary" />
 </p>
